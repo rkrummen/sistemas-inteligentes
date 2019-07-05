@@ -1,2 +1,2 @@
 # sistemas-inteligentes
-Repositório da disciplina sistemas inteligentes (Eng. Elétrica - UEM)
+Repositório da disciplina 6694 - Sistemas Inteligentes (Eng. Elétrica - UEM)
